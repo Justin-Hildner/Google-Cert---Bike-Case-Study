@@ -1,0 +1,1 @@
+This case study, completed for the Google Data Analytics Specialization, analyzes a Google-provided CSV based on bike usage and attrition in RStudio. Data was cleaned using packages like tidyverse, and two ggplot visualizations were created to present relevant and actionable insights that helped achive a targeted business goal.
